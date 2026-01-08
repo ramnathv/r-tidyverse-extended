@@ -62,6 +62,7 @@ Imports:
     knitr,
     logger,
     lubridate,
+    magick,
     MASS,
     Matrix,
     matrixStats,
